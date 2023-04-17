@@ -1,0 +1,27 @@
+body{
+    background-color: #d2dae2;
+}
+.admintitle
+{
+    background-color: #ef5777;
+    color: #fff;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    height: 80px;
+    line-height: 80px;
+    text-transform: uppercase;
+
+
+}
+
+.dashboard{
+    background-color: #F97F51;
+    color: #000;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 120px;
+    font-size: 25px;
+    padding-top: 25px;
+    text-align: center;
+}
